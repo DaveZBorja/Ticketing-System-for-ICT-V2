@@ -11,7 +11,7 @@ Features
     API Integration: The system uses a RESTful API to manage tickets.
 
 Project Structure
-
+'''
 plaintext
 
 TicketingSystem/
@@ -28,7 +28,7 @@ TicketingSystem/
 │   ├── logo.png          # Small logo used in the Tkinter app
 ├── requirements.txt      # List of required Python packages
 └── README.md             # Project documentation
-
+'''
 Getting Started
 Prerequisites
 
@@ -45,7 +45,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/ticketing-system.git
+git clone https://github.com/DaveZBorja/Ticketing-System-for-ICT-V2.git
 
 Navigate to the project directory:
 
