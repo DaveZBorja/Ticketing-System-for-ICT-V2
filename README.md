@@ -82,9 +82,9 @@ TicketingSystem/
     Start the Flask server:
 
     bash
-```
-**python server.py**
 
+    python server.py
+```
 **Open your web browser and navigate to:**
 ```
 
@@ -108,7 +108,7 @@ TicketingSystem/
 
     Enter the required ticket information in the provided fields and click "Submit" to send the ticket to the server.
 ```
-##REST API Endpoints
+## REST API Endpoints
 **Create a New Ticket**
 ```
     Endpoint: /api/tickets
@@ -161,7 +161,7 @@ TicketingSystem/
 
 **Admin Panel**
 
-##Troubleshooting
+## Troubleshooting
 ```
     Issue: Unable to create a ticket from Tkinter app.
         Solution: Ensure the Flask server is running and the API endpoint is accessible.
@@ -169,11 +169,10 @@ TicketingSystem/
     Issue: ImportError for ImageTk in the Tkinter app.
         Solution: Make sure Pillow is installed correctly. Reinstall using pip install pillow.
 ```
-##Contributing
+## Contributing
 
 Feel free to fork this repository and submit pull requests with new features or bug fixes. Please make sure to follow the project's coding standards and include relevant documentation.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-This README.md file covers the core aspects of the project, including installation, usage, and API details. Let me know if you'd like to add or modify any section!
+ 
